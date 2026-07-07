@@ -1,0 +1,17 @@
+{
+  "name": "Insight by CitiPlug",
+  "short_name": "Insight",
+  "description": "Independent journalism, intelligent ideas, and original stories.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f2ec",
+  "theme_color": "#0b1426",
+  "icons": [
+    {
+      "src": "assets/brand-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
